@@ -1,4 +1,4 @@
-ACC102 Mini Assignment | Track 2: GitHub Data Analysis Project
+ACC102 Mini Assignment | Track 2: GitHub Data Analysis Project 
 
 This project evaluates the risk and return performance of three major U.S. technology stocks — Apple (AAPL), Microsoft (MSFT), and NVIDIA (NVDA) — from 2020 to 2025. The analysis focuses on cumulative returns, annualized returns, volatility, and maximum drawdown, aiming to provide investors with a clear comparison of their growth potential and risk profiles.
 
