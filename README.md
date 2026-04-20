@@ -52,11 +52,11 @@ The analysis leverages a complete Python-based workflow:
 
 6. How to Run
 
-1. Open the provided .ipynb notebook in Jupyter or VS Code.
+• Open the provided .ipynb notebook in Jupyter or VS Code.
 
-2. Execute all cells sequentially to reproduce the analysis.
+• Execute all cells sequentially to reproduce the analysis.
 
-3. Review the cumulative return plot, risk metrics table, and exported Excel files.
+• Review the cumulative return plot, risk metrics table, and exported Excel files.
 
 7. Limitations & Future Improvements
 
@@ -66,4 +66,4 @@ The analysis leverages a complete Python-based workflow:
 
 • Scope: The analysis excludes dividends, transaction costs, and systematic risk factors.
 
-• Improvements: Expand to S&P 500 constituents, include dividend reinvestment, and incorporate Fama-French factor models for more robust risk-adjusted performance evaluation
+• Improvements: Expand to S&P 500 constituents, include dividend reinvestment, and incorporate factor models for more robust risk-adjusted performance evaluation
